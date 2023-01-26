@@ -1,9 +1,8 @@
-# Hello World 👋
- [![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:haoruileee@gmail.com)
----
+# Welcome, I'm Dan Pathammavong
+
 <img img height="400" align="right" alt="GIF" src="https://media3.giphy.com/media/LSKHkpRJySs5W81D7B/giphy.gif?cid=ecf05e47y5vs0vf64tb8ttxbgexmthvqt2q2k1yxyss2y2qi&rid=giphy.gif&ct=g" />
 
-### I'm Dan Pathammavong
+## I'm a Fullstack Software Engineer
 
 - 🔭 Bachelor of Computer Science in Chien-Shiung Wu College, Southeast University, China 
 - 🌱 Currently working on "Using ML for meteorological early warning"
