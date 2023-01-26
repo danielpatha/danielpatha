@@ -4,15 +4,12 @@
 
 ## I'm a Fullstack Software Engineer
 
-- 🔭 Bachelor of Computer Science in Chien-Shiung Wu College, Southeast University, China 
-- 🌱 Currently working on "Using ML for meteorological early warning"
-- 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
-- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
-- ⚡ Fun fact: Data Analysis📊
+-  **Currently Working On and Learning:** Full-Stack Projects :zap: | Languages :fire:    
+-  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart:
 
 ### Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
