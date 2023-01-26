@@ -1,13 +1,18 @@
-# Welcome, I'm Dan Pathammavong
+# Welcome, I'm Dan Pathammavong 👨🏻‍💻
 
 <img img height="400" align="right" alt="GIF" src="https://media3.giphy.com/media/LSKHkpRJySs5W81D7B/giphy.gif?cid=ecf05e47y5vs0vf64tb8ttxbgexmthvqt2q2k1yxyss2y2qi&rid=giphy.gif&ct=g" />
 
-## I'm a Fullstack Software Engineer
+## I'm a Fullstack Software Engineer.
 
--  **Currently Working On and Learning:** Full-Stack Projects :Faceless Pro : | Languages :fire:    
--  **Hobbies :** Basketball :basketball: & Music :headphones:
--  **Fun Fact :** First solve the problem, then write the code :heart:
+### About
+-  **Currently Working On and Learning:**.  
+<ins>Full-Stack Projects:</ins>
+Faceless Pro👤. Which is a blind recruitment job board that aims to eliminate unconscious bias and discrimination against job applicants.   
+<!-- Languages: No language for now...  -->
+  
+-  **Things I enjoy:** Doing anything outdoors, playing volleyball with friends, and trying new restaurants! 🍃 🏐 🌮
 
+-  **Fun Fact :** Poke bowls are one of my favorite food items, what's yours? 🤔
 ### Languages and Tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px"></a>
