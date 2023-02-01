@@ -2,11 +2,11 @@
 
 <img img height="400" align="right" alt="GIF" src="https://media3.giphy.com/media/LSKHkpRJySs5W81D7B/giphy.gif?cid=ecf05e47y5vs0vf64tb8ttxbgexmthvqt2q2k1yxyss2y2qi&rid=giphy.gif&ct=g" />
 
-## I'm a Fullstack Software Engineer.
+## I'm a Full Stack Software Engineer.
 
 ### About
 -  **Currently Working On and Learning:**.  
-<ins>Full-Stack Projects:</ins>
+<ins>Full Stack Projects:</ins>
 Faceless Pro👤. Which is a blind recruitment job board that aims to eliminate unconscious bias and discrimination against job applicants.   
 <!-- Languages: No language for now...  -->
   
