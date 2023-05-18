@@ -6,15 +6,17 @@
 
 ### About
 -  **Currently Working On and Learning:**.  
-<ins>Full Stack Projects:</ins>
+<!-- <ins>Full Stack Projects:</ins>
 Faceless Pro👤. Which is a blind recruitment job board that aims to eliminate unconscious bias and discrimination against job applicants.
-Technologies Used: JavaScript, Express.js, React.js, Node.js,Material UI, SQL, Redux‐Saga, Figma, and Multer.
+Technologies Used: JavaScript, Express.js, React.js, Node.js,Material UI, SQL, Redux‐Saga, Figma, and Multer. -->
 
-<!-- Languages: No language for now...  -->
+Technologies: Bootstrap and Word Press.
+
+Languages: Typescript.
   
--  **Things I enjoy:** Doing anything outdoors, playing volleyball with friends, and trying new restaurants! 🍃 🏐 🌮
+-  **Things I enjoy:** Playing volleyball with friends, enjoy Detroit style pizza, and scouring you local card shop trying to find a rare rookie card  🏐 🍕 🃏
 
--  **Fun Fact :** Poke bowls are one of my favorite food items, what's yours? 🤔
+<!-- -  **Fun Fact :** Poke bowls are one of my favorite food items, what's yours? 🤔 -->
 ### Languages and Tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px"></a>
