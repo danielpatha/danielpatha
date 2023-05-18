@@ -41,8 +41,8 @@ Languages: Typescript.
 
  ### Communication 
   
-  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/danielpatha/) &nbsp;&nbsp;
-  [![website](https://user-images.githubusercontent.com/25087769/87173861-0aa06200-c2df-11ea-9614-da65c9c73692.png)](https://danielpatha.github.io/Portfolio/) &nbsp;&nbsp;
+  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/danpatha/) &nbsp;&nbsp;
+  [![website](https://user-images.githubusercontent.com/25087769/87173861-0aa06200-c2df-11ea-9614-da65c9c73692.png)](https://danpatha.github.io/Portfolio/) &nbsp;&nbsp;
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:patha037@umn.edu)
  
 </p>
