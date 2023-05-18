@@ -10,7 +10,7 @@
 Faceless Pro👤. Which is a blind recruitment job board that aims to eliminate unconscious bias and discrimination against job applicants.
 Technologies Used: JavaScript, Express.js, React.js, Node.js,Material UI, SQL, Redux‐Saga, Figma, and Multer. -->
 
-Technologies: Bootstrap and Word Press.
+Technologies:  Bootstrap and Word Press.
 
 Languages: Typescript.
   
