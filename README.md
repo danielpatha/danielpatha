@@ -14,7 +14,7 @@ Technologies:  Bootstrap and Word Press.
 
 Languages: Typescript.
   
--  **Things I enjoy:** Playing volleyball with friends, enjoy Detroit style pizza, and scouring you local card shop trying to find a rare rookie card  🏐 🍕 🃏
+-  **Things I enjoy:** Playing volleyball with friends, enjoying Detroit style pizza, and scouring a local card shop trying to find a rare rookie card  🏐 🍕 🃏
 
 <!-- -  **Fun Fact :** Poke bowls are one of my favorite food items, what's yours? 🤔 -->
 ### Languages and Tools
