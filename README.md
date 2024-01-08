@@ -15,8 +15,8 @@ Technologies:  Headless CMS's
 
 Languages: Typescript.
   
--  **Things I enjoy:** Playing volleyball with friends, enjoying Detroit style pizza, and scouring a local card shop trying to find a rare rookie card  🏐 🍕 🃏
-
+-  **Things I enjoy:** Playing volleyball with friends, some Detroit style pizza, and watching basketball!  🏐🍕
+  
 <!-- -  **Fun Fact :** Poke bowls are one of my favorite food items, what's yours? 🤔 -->
 ### Languages and Tools
 
