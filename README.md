@@ -9,9 +9,9 @@
 <!-- <ins>Full Stack Projects:</ins>
 Faceless Pro👤. Which is a blind recruitment job board that aims to eliminate unconscious bias and discrimination against job applicants.
 Technologies Used: JavaScript, Express.js, React.js, Node.js,CSS, SQL, Redux‐Saga, and Figma,  -->
-Projects: Weather API Project.
+Projects: F.I.R.E. Housing Application.
 
-Technologies:  Headless CMS's
+Technologies:  Angular and Mongo DB
 
 Languages: Typescript.
   
